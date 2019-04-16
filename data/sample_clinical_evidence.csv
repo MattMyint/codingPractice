@@ -1,0 +1,157 @@
+variant_id,disease,drugs
+10,Non-small Cell Lung Carcinoma,Sorafenib
+17,Melanoma,
+8,Inflammatory Myofibroblastic Tumor,Crizotinib
+8,Non-small Cell Lung Carcinoma,Crizotinib
+8,Neuroblastoma,Alectinib 
+8,Neuroblastoma,Crizotinib
+9,Neuroblastoma,TAE684
+10,Non-small Cell Lung Carcinoma,Sorafenib
+10,Non-small Cell Lung Carcinoma,Trametinib
+9,Neuroblastoma,TAE684
+13,Melanoma,Dabrafenib
+12,Thyroid Cancer,
+12,Thyroid Cancer,
+12,Melanoma,Dacarbazine
+12,Melanoma,Trametinib
+17,Colorectal Cancer,Panitumumab
+12,Colorectal Cancer,Sorafenib
+12,Melanoma,Vemurafenib
+12,Non-small Cell Lung Carcinoma,Dabrafenib
+14,Colorectal Cancer,Selumetinib 
+17,Melanoma,Dabrafenib
+11,Melanoma,Dabrafenib
+12,Melanoma,Dabrafenib
+12,Colorectal Cancer,PLX4720
+12,Colorectal Cancer,PLX4720
+12,Colorectal Cancer,Capecitabine
+12,Colorectal Cancer,Vemurafenib
+12,Thyroid Cancer,
+12,Colorectal Cancer,
+12,Melanoma,
+12,Thyroid Cancer,
+12,Thyroid Cancer,
+12,Thyroid Cancer,
+8,Neuroblastoma,Crizotinib
+12,Colorectal Cancer,Cetuximab
+7,Non-small Cell Lung Carcinoma,Alectinib 
+8,Neuroblastoma,TAE684
+9,Neuroblastoma,Crizotinib
+1,Chronic Myeloid Leukemia,
+1,Chronic Myeloid Leukemia,
+20,Breast Cancer,
+4,Breast Cancer,MK-2206
+1,Acute Myeloid Leukemia,Imatinib
+3,Chronic Myeloid Leukemia,Imatinib
+2,Chronic Myeloid Leukemia,Imatinib
+2,Chronic Myeloid Leukemia,Imatinib
+7,Non-small Cell Lung Carcinoma,Crizotinib
+1,Acute Myeloid Leukemia,Imatinib
+1,Chronic Myeloid Leukemia,Imatinib
+1,Chronic Myeloid Leukemia,Nilotinib
+5,Non-small Cell Lung Carcinoma,Crizotinib
+19,Non-small Cell Lung Carcinoma,
+1,Chronic Myeloid Leukemia,Imatinib
+18,Non-small Cell Lung Carcinoma,
+19,Non-small Cell Lung Carcinoma,
+20,Breast Cancer,
+20,Head And Neck Squamous Cell Carcinoma,
+20,Mantle Cell Lymphoma,
+7,Non-small Cell Lung Carcinoma,Crizotinib
+12,Myeloma,
+12,Papillary Thyroid Carcinoma,
+4,Melanoma,GSK2141795
+4,Breast Cancer,AZD5363
+12,Melanoma,Pictilisib
+12,Colorectal Cancer,Cetuximab
+6,Non-small Cell Lung Carcinoma,AUY922
+6,Non-small Cell Lung Carcinoma,Lorlatinib
+20,Estrogen-receptor Positive Breast Cancer,Tamoxifen
+18,Breast Cancer,Tamoxifen
+17,Melanoma,RO4987655
+17,Melanoma,BAY 86-9766
+12,Melanoma,BEZ235 
+5,Lung Acinar Adenocarcinoma,Erlotinib
+12,Hairy Cell Leukemia,
+12,Cancer,Cobimetinib
+5,Non-small Cell Lung Carcinoma,WHI-P154
+5,Non-small Cell Lung Carcinoma,Crizotinib
+5,Non-small Cell Lung Carcinoma,Crizotinib
+5,Non-small Cell Lung Carcinoma,Crizotinib
+9,Neuroblastoma,Crizotinib
+9,Neuroblastoma,Crizotinib
+8,Neuroblastoma,Crizotinib
+8,Neuroblastoma,AZD3463
+8,Neuroblastoma,Lorlatinib
+9,Neuroblastoma,Lorlatinib
+5,Non-small Cell Lung Carcinoma,Lorlatinib
+7,Non-small Cell Lung Carcinoma,Ceritinib
+6,Non-small Cell Lung Carcinoma,Crizotinib
+2,Chronic Myeloid Leukemia,Ponatinib
+12,Melanoma,Vemurafenib
+12,Colorectal Cancer,Vemurafenib
+12,Colorectal Cancer,Dabrafenib
+17,Melanoma,Dabrafenib
+12,Colorectal Cancer,Vemurafenib
+12,Skin Melanoma,Vemurafenib
+12,Skin Melanoma,Vemurafenib
+12,Skin Melanoma,Trametinib
+12,Colorectal Cancer,Vemurafenib
+12,Papillary Thyroid Carcinoma,Vemurafenib
+17,Colorectal Cancer,Dabrafenib
+12,Melanoma,Vemurafenib
+12,Colorectal Cancer,BEZ235 
+12,Gastrointestinal Neuroendocrine Tumor,Dabrafenib
+18,Skin Melanoma,Carboplatin
+20,Mantle Cell Lymphoma,Palbociclib 
+12,Colorectal Cancer,
+18,Renal Cell Carcinoma,Palbociclib 
+18,Breast Cancer,Palbociclib 
+20,Mantle Cell Lymphoma,Palbociclib 
+17,Non-small Cell Lung Carcinoma,Vemurafenib
+17,Langerhans-Cell Histiocytosis,Vemurafenib
+17,Colorectal Cancer,Vemurafenib
+12,Hairy Cell Leukemia,Vemurafenib
+12,Colorectal Cancer,Vemurafenib
+12,Papillary Thyroid Carcinoma,Vemurafenib
+17,Colorectal Cancer,Vemurafenib
+18,Ovarian Cancer,Palbociclib 
+12,Multiple Myeloma,Vemurafenib
+12,Multiple Myeloma,Vemurafenib
+12,Melanoma,Vemurafenib
+17,Melanoma,Trametinib
+12,Colorectal Cancer,Vemurafenib
+12,Colorectal Cancer,
+12,Colorectal Cancer,Panitumumab
+3,Chronic Myeloid Leukemia,Imatinib
+3,Chronic Myeloid Leukemia,Imatinib
+3,Chronic Myeloid Leukemia,Nilotinib
+2,Chronic Myeloid Leukemia,Imatinib
+2,Chronic Myeloid Leukemia,Imatinib
+2,Chronic Myeloid Leukemia,Nilotinib
+12,Non-small Cell Lung Carcinoma,Trametinib
+4,Cancer,AZD-5363
+12,Colorectal Cancer,Cetuximab
+12,Melanoma,Vemurafenib
+12,Melanoma,Vemurafenib
+12,Melanoma,Vemurafenib
+12,Skin Melanoma,Dabrafenib
+12,Ganglioglioma,Vemurafenib
+4,Melanoma,Vemurafenib
+11,Melanoma,Vemurafenib
+12,Cholangiocarcinoma,Trametinib DMSO
+12,Cholangiocarcinoma,Trametinib DMSO
+12,Cholangiocarcinoma,Dabrafenib
+17,Cholangiocarcinoma,Vemurafenib
+12,Cholangiocarcinoma,Irinotecan
+12,Non-small Cell Lung Carcinoma,Vemurafenib
+12,Ovarian Cancer,Vemurafenib
+12,Colorectal Cancer,Vemurafenib
+12,Laryngeal Squamous Cell Carcinoma,Vemurafenib
+17,Melanoma,Cobimetinib
+12,Colorectal Cancer,Panitumumab
+12,Colorectal Adenocarcinoma,Trametinib
+12,Melanoma,Dabrafenib
+2,Chronic Myeloid Leukemia,Dasatinib
+3,Chronic Myeloid Leukemia,Dasatinib
+3,Chronic Myeloid Leukemia,Dasatinib
